@@ -1,4 +1,4 @@
-# Example application for Play+AngularJS+RequireJS.
+# Example application for Play+AngularJS+RequireJS.  (using Build.scala instead of build.sbt)
 
 ## Intro
 
